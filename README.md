@@ -1,8 +1,8 @@
 # 2602454: Business Intelligence System
-## topics (week 1: 18-Jan-2020)
+## topics (week 1: 21-Jan-2020)
 * intro to data science
   * machine learning
-  * target pregnant case 2012
+  * Target pregnant case 2012
     * [New York Times](https://www.nytimes.com/2012/02/19/magazine/shopping-habits.html)
     * [Forbes](https://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did/?sh=5199355b6668)
     * [video clip](https://nyti.ms/2kH3YzT)
@@ -13,3 +13,5 @@
     * [pandas](https://www.youtube.com/watch?v=f3CLdRl-zyQ&list=PLoTScYm9O0GFVfRk_MmZt0vQXNIi36LUz)
 * repository
   * [github](https://www.youtube.com/watch?v=hSQgAA8bj6I&list=PLoTScYm9O0GGsV1ZAyP4m_iyAbflQrKrX)
+* recommended resources:
+  * https://www.kaggle.com/
