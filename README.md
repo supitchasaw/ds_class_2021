@@ -1,5 +1,5 @@
 # 2602454: Business Intelligence System
-## week 1: 20-Jan-2020
+## week 1: 20-Jan-2021
 * intro to data science
   * machine learning
   * Target pregnant case 2012
@@ -9,6 +9,10 @@
   * [Netflix: the social dilemma](https://www.netflix.com/th-en/title/81254224)
   * [Netflix: the great hack](https://www.netflix.com/th-en/title/80117542)
 * explore data
+  * sample data:
+    * [bigmac index](./bigmac_index.csv)
+    * [telecom customer churn](./Telco-Customer-Churn.csv)
+    * [food nutrition](./nutrients.csv)
   * pandas vs sql
     * [pandas](https://www.youtube.com/watch?v=f3CLdRl-zyQ&list=PLoTScYm9O0GFVfRk_MmZt0vQXNIi36LUz)
 * repository
