@@ -1,5 +1,5 @@
 # 2602454: Business Intelligence System
-## topics (week 1: 21-Jan-2020)
+## week 1: 20-Jan-2020
 * intro to data science
   * machine learning
   * Target pregnant case 2012
@@ -14,4 +14,6 @@
 * repository
   * [github](https://www.youtube.com/watch?v=hSQgAA8bj6I&list=PLoTScYm9O0GGsV1ZAyP4m_iyAbflQrKrX)
 * recommended resources:
+  * https://pandas.pydata.org/docs/
   * https://www.kaggle.com/
+  * https://stackoverflow.com/
