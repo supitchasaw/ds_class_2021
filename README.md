@@ -1,4 +1,5 @@
 # 2602454: Business Intelligence System
+* github: https://github.com/prasertcbs/ds_class_2021
 ## week 1: 20-Jan-2021
 * [ ] intro to data science
   * [ ] machine learning
@@ -18,6 +19,7 @@
 * [ ] repository
   * [ ] [github](https://www.youtube.com/watch?v=hSQgAA8bj6I&list=PLoTScYm9O0GGsV1ZAyP4m_iyAbflQrKrX)
 * [ ] recommended resources:
+  * [ ] [ML text book](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
   * [ ] https://pandas.pydata.org/docs/
   * [ ] https://www.kaggle.com/
   * [ ] https://stackoverflow.com/
