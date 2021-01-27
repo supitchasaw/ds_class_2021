@@ -5,6 +5,7 @@
     - [intro to data science](#intro-to-data-science)
   - [week 2: 27-Jan-2021 (pandas)](#week-2-27-jan-2021-pandas)
     - [intro to pandas](#intro-to-pandas)
+---
 ## week 1: 20-Jan-2021
 ### intro to data science
   * [x] [CRISP model: CRoss-Industry Standard Process for data mining](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining#/media/File:CRISP-DM_Process_Diagram.png)
@@ -40,35 +41,51 @@
   * [ ] [pandas documentation](https://pandas.pydata.org/docs/)
   * [ ] [Kaggle](https://www.kaggle.com/)
   * [ ] [Stack Overflow](https://stackoverflow.com/)
+---
 ## week 2: 27-Jan-2021 (pandas)
 ### intro to pandas
-  * [ ] read data technique
-    * [ ] separator
-    * [ ] nrows
-    * [ ] parse_dates
-    * [ ] sample
-    * [ ] transpose
-  * [ ] [display options](https://pandas.pydata.org/pandas-docs/stable/user_guide/options.html)
-    * [ ] max rows
-      * `pd.set_option('display.max_rows', None)` 
-    * [ ] max cols
-      * `pd.set_option('display.max_columns', None)`
-  * [ ] data selection
-    * [ ] [Series](https://www.youtube.com/watch?v=dX6COdB7yRo&list=PLoTScYm9O0GFVfRk_MmZt0vQXNIi36LUz&index=22)
-      * [ ] index (as dictionary), slice
-    * [ ] [DataFrame](https://www.youtube.com/watch?v=NrcAJFJo1R4&list=PLoTScYm9O0GFVfRk_MmZt0vQXNIi36LUz&index=23)
-      * [ ] index, slice
-      * [ ] [loc](https://www.youtube.com/watch?v=k5rjyOhG3kg&list=PLoTScYm9O0GFVfRk_MmZt0vQXNIi36LUz&index=74)
-      * [ ] [iloc](https://www.youtube.com/watch?v=2mRwQ2_p0Ws&list=PLoTScYm9O0GFVfRk_MmZt0vQXNIi36LUz&index=76)
-  * [ ] data types
-    * [ ] number (int, float)
-    * [ ] object
-      * [ ] [to_numeric](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.to_numeric.html)
-    * [ ] [category](https://youtu.be/ulDIl1E_VVA)
-      * [ ] astype('category')
-    * [ ] [datetime](https://youtu.be/Zfp5YVZtwYc)
-      * [ ] [to_datetime](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.to_datetime.html)
-  * [ ] missing values
-    * [ ] [sample data](https://github.com/prasertcbs/basic-dataset/raw/master/msleep.csv)
-    * [ ] [clip 1](https://youtu.be/Ysgqv1ICWU4)
-    * [ ] [clip 2](https://youtu.be/Fib0R8yJOYE)
+#### Read data technique
+* [x] separator
+* [x] nrows
+* [x] parse_dates
+* [x] sample
+* [x] transpose
+* [x] read_html
+#### Save data technique
+* [x] csv
+* [x] Excel
+* [ ] [display options](https://pandas.pydata.org/pandas-docs/stable/user_guide/options.html)
+  * [ ] max rows
+    * `pd.set_option('display.max_rows', None)` 
+  * [ ] max cols
+    * `pd.set_option('display.max_columns', None)`
+### Data selection
+* [x] [Series](https://www.youtube.com/watch?v=dX6COdB7yRo&list=PLoTScYm9O0GFVfRk_MmZt0vQXNIi36LUz&index=22)
+  * [x] index (as dictionary), slice
+* [x] [DataFrame](https://www.youtube.com/watch?v=NrcAJFJo1R4&list=PLoTScYm9O0GFVfRk_MmZt0vQXNIi36LUz&index=23)
+    * [x] index, slice
+    * [x] [loc](https://www.youtube.com/watch?v=k5rjyOhG3kg&list=PLoTScYm9O0GFVfRk_MmZt0vQXNIi36LUz&index=74)
+    * [ ] [iloc](https://www.youtube.com/watch?v=2mRwQ2_p0Ws&list=PLoTScYm9O0GFVfRk_MmZt0vQXNIi36LUz&index=76)
+### data types
+* [x] number (int, float)
+* [x] object
+  * [x] [to_numeric](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.to_numeric.html)
+* [ ] [category](https://youtu.be/ulDIl1E_VVA)
+  * [ ] astype('category')
+* [x] [datetime](https://youtu.be/Zfp5YVZtwYc)
+  * [x] [to_datetime](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.to_datetime.html)
+### EDA
+* [x] describe()
+* [ ] aggregate functions
+* [x] correlation
+* [x] visualizing data
+  * [x] histogram
+  * [x] boxplot
+  * [x] scatterplot
+### Filter
+* [ ] ==, !=, <, >
+* [ ] regular expression
+### Missing values
+  * [x] [sample data](https://github.com/prasertcbs/basic-dataset/raw/master/msleep.csv)
+  * [ ] [clip 1](https://youtu.be/Ysgqv1ICWU4)
+  * [ ] [clip 2](https://youtu.be/Fib0R8yJOYE)
