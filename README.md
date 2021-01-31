@@ -1,11 +1,25 @@
-# 2602454: Business Intelligence System
-* github: https://github.com/prasertcbs/ds_class_2021
 - [2602454: Business Intelligence System](#2602454-business-intelligence-system)
   - [week 1: 20-Jan-2021](#week-1-20-jan-2021)
     - [intro to data science](#intro-to-data-science)
   - [week 2: 27-Jan-2021 (pandas)](#week-2-27-jan-2021-pandas)
     - [intro to pandas](#intro-to-pandas)
+      - [Read data technique](#read-data-technique)
+      - [Save data technique](#save-data-technique)
+    - [Data selection](#data-selection)
+    - [data types](#data-types)
+    - [EDA](#eda)
+    - [Missing values](#missing-values)
+  - [week 3: 3-Feb-2021](#week-3-3-feb-2021)
+    - [Announcement](#announcement)
+    - [Filter](#filter)
+    - [Merge, Join, Pivot](#merge-join-pivot)
+    - [matplotlib](#matplotlib)
+    - [Widget](#widget)
+    - [Assignment](#assignment)
+
 ---
+# 2602454: Business Intelligence System
+* github: https://github.com/prasertcbs/ds_class_2021
 ## week 1: 20-Jan-2021
 ### intro to data science
   * [x] [CRISP model: CRoss-Industry Standard Process for data mining](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining#/media/File:CRISP-DM_Process_Diagram.png)
@@ -38,9 +52,9 @@
 * [ ] recommended resources:
   * [x] [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
     * [ ] [Jupyter Notebook on github](https://github.com/jakevdp/PythonDataScienceHandbook)
-  * [ ] [pandas documentation](https://pandas.pydata.org/docs/)
-  * [ ] [Kaggle](https://www.kaggle.com/)
-  * [ ] [Stack Overflow](https://stackoverflow.com/)
+    * [ ] [pandas documentation](https://pandas.pydata.org/docs/)
+    * [ ] [Kaggle](https://www.kaggle.com/)
+    * [ ] [Stack Overflow](https://stackoverflow.com/)
 ---
 ## week 2: 27-Jan-2021 (pandas)
 ### intro to pandas
@@ -63,9 +77,9 @@
 * [x] [Series](https://www.youtube.com/watch?v=dX6COdB7yRo&list=PLoTScYm9O0GFVfRk_MmZt0vQXNIi36LUz&index=22)
   * [x] index (as dictionary), slice
 * [x] [DataFrame](https://www.youtube.com/watch?v=NrcAJFJo1R4&list=PLoTScYm9O0GFVfRk_MmZt0vQXNIi36LUz&index=23)
-    * [x] index, slice
-    * [x] [loc](https://www.youtube.com/watch?v=k5rjyOhG3kg&list=PLoTScYm9O0GFVfRk_MmZt0vQXNIi36LUz&index=74)
-    * [ ] [iloc](https://www.youtube.com/watch?v=2mRwQ2_p0Ws&list=PLoTScYm9O0GFVfRk_MmZt0vQXNIi36LUz&index=76)
+  * [x] index, slice
+  * [x] [loc](https://www.youtube.com/watch?v=k5rjyOhG3kg&list=PLoTScYm9O0GFVfRk_MmZt0vQXNIi36LUz&index=74)
+  * [ ] [iloc](https://www.youtube.com/watch?v=2mRwQ2_p0Ws&list=PLoTScYm9O0GFVfRk_MmZt0vQXNIi36LUz&index=76)
 ### data types
 * [x] number (int, float)
 * [x] object
@@ -82,10 +96,33 @@
   * [x] histogram
   * [x] boxplot
   * [x] scatterplot
+### Missing values
+* [x] [sample data](https://github.com/prasertcbs/basic-dataset/raw/master/msleep.csv)
+* [ ] [clip 1](https://youtu.be/Ysgqv1ICWU4)
+* [ ] [clip 2](https://youtu.be/Fib0R8yJOYE)
+
+---
+## week 3: 3-Feb-2021
+### Announcement
+* [ ] Internship
 ### Filter
 * [ ] ==, !=, <, >
+* [ ] [regular expression](https://www.youtube.com/watch?v=KTGvdg9c_qU&list=PLoTScYm9O0GHsd-2JwUcifFTO3EuqJB4F)
+### Merge, Join, Pivot
+* [ ] combine DataFrames
+  * [ ] append columns
+  * [ ] append rows
+* [ ] merge DataFrames
+  * [ ] covid exam
+* [ ] crosstab, pivot
 * [ ] regular expression
-### Missing values
-  * [x] [sample data](https://github.com/prasertcbs/basic-dataset/raw/master/msleep.csv)
-  * [ ] [clip 1](https://youtu.be/Ysgqv1ICWU4)
-  * [ ] [clip 2](https://youtu.be/Fib0R8yJOYE)
+  * [ ] [rai-ngan-wah](https://github.com/prasertcbs/basic-dataset/raw/master/area_conversion.xlsx)
+  * [ ] [geo:lat,lon](https://github.com/prasertcbs/basic-dataset/raw/master/temple_geo.tsv)
+  * [ ] [pixar quiz](https://github.com/prasertcbs/basic-dataset/raw/master/regexp_extract_split.csv)
+### [matplotlib](https://www.youtube.com/watch?v=WOEOH8OV99k&list=PLoTScYm9O0GGRvUsTmO8MQUkIuM1thTCf)
+* [ ] subplots r x c 
+### Widget
+* [ ] [COVID-19](https://www.youtube.com/watch?v=sBWgTkQ9Ezw&list=PLoTScYm9O0GEZpIlV6-_ppgQmBO0luWG-)
+* [ ] [COVID-19 chart](https://www.youtube.com/watch?v=wqHYYzRTss8)
+### Assignment
+* [ ] [Web scraping](https://www.youtube.com/watch?v=Y-_t5Hll09I&list=PLoTScYm9O0GHM1yuswgoL6tUcMge7FwP7)
