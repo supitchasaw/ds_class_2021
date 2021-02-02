@@ -1,4 +1,5 @@
 - [2602454: Business Intelligence System](#2602454-business-intelligence-system)
+  - [สื่อการสอน Python for Data Science บน YouTube:](#สื่อการสอน-python-for-data-science-บน-youtube)
   - [week 1: 20-Jan-2021](#week-1-20-jan-2021)
     - [intro to data science](#intro-to-data-science)
   - [week 2: 27-Jan-2021 (pandas)](#week-2-27-jan-2021-pandas)
@@ -20,6 +21,16 @@
 ---
 # 2602454: Business Intelligence System
 * github: https://github.com/prasertcbs/ds_class_2021
+## สื่อการสอน Python for Data Science บน YouTube:  
+- [ไพธอน Python เบื้องต้น](https://www.youtube.com/playlist?list=PLoTScYm9O0GEoKcXJ-C5NrywxpvATaoG1)
+- [Jupyter Notebook](https://www.youtube.com/playlist?list=PLoTScYm9O0GErrygsfQtDtBT4CloRkiDx)
+- [Jupyter Lab](https://www.youtube.com/playlist?list=PLoTScYm9O0GEour5CiwfSnoutg3RyA76O)
+- [Pandas](https://www.youtube.com/playlist?list=PLoTScYm9O0GGsOHPCeufxCLt-uGU5Rsuj)
+- [Seaborn](https://www.youtube.com/playlist?list=PLoTScYm9O0GGC9QvLlrQGvMYatTjnOUwR)
+- [Numpy](https://www.youtube.com/playlist?list=PLoTScYm9O0GFNEpzsCBEnkUwgAwOu_PWw)
+- [Matplotlib](https://www.youtube.com/playlist?list=PLoTScYm9O0GGRvUsTmO8MQUkIuM1thTCf)
+- [scikit learn](https://www.youtube.com/watch?v=AdDvPCarDyI&list=PLoTScYm9O0GH_3VrwwnQafwWQ6ibKnEtU)
+- [การใช้ git และ github](https://www.youtube.com/playlist?list=PLoTScYm9O0GGsV1ZAyP4m_iyAbflQrKrX)
 ## week 1: 20-Jan-2021
 ### intro to data science
   * [x] [CRISP model: CRoss-Industry Standard Process for data mining](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining#/media/File:CRISP-DM_Process_Diagram.png)
