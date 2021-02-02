@@ -115,18 +115,19 @@
 ---
 ## week 3: 3-Feb-2021
 ### Announcement
+* [ ] Quiz 1 (35 points) on 24-Feb-2021
 * [ ] Internship
 ### Filter
-* [ ] ==, !=, <, >
+* [ ] ==, !=, <, >, ~, &, |
 * [ ] [regular expression](https://www.youtube.com/watch?v=KTGvdg9c_qU&list=PLoTScYm9O0GHsd-2JwUcifFTO3EuqJB4F)
 ### Merge, Join, Pivot
 * [ ] combine DataFrames
-  * [ ] append columns
   * [ ] append rows
+    * [ ] [michelin restaurants](https://github.com/prasertcbs/basic-dataset/tree/master/michelin%20restaurants)
 * [ ] merge DataFrames
   * [ ] covid exam
 * [ ] crosstab, pivot
-* [ ] regular expression
+* [ ] [regular expression](https://www.youtube.com/watch?v=KTGvdg9c_qU&list=PLoTScYm9O0GHsd-2JwUcifFTO3EuqJB4F&index=1)
   * [ ] [rai-ngan-wah](https://github.com/prasertcbs/basic-dataset/raw/master/area_conversion.xlsx)
   * [ ] [geo:lat,lon](https://github.com/prasertcbs/basic-dataset/raw/master/temple_geo.tsv)
   * [ ] [pixar quiz](https://github.com/prasertcbs/basic-dataset/raw/master/regexp_extract_split.csv)
@@ -137,3 +138,4 @@
 * [ ] [COVID-19 chart](https://www.youtube.com/watch?v=wqHYYzRTss8)
 ### Assignment
 * [ ] [Web scraping](https://www.youtube.com/watch?v=Y-_t5Hll09I&list=PLoTScYm9O0GHM1yuswgoL6tUcMge7FwP7)
+  * [ ] scrape an interesting website and save scraped data as CSV
