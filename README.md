@@ -4,7 +4,7 @@
     - [intro to data science](#intro-to-data-science)
   - [week 2: 27-Jan-2021 (pandas)](#week-2-27-jan-2021-pandas)
     - [intro to pandas](#intro-to-pandas)
-      - [Read data technique](#read-data-technique)
+      - [Read data techniques](#read-data-techniques)
       - [Save data technique](#save-data-technique)
     - [Data selection](#data-selection)
     - [data types](#data-types)
@@ -69,7 +69,7 @@
 ---
 ## week 2: 27-Jan-2021 (pandas)
 ### intro to pandas
-#### Read data technique
+#### [Read data techniques](https://www.youtube.com/watch?v=fNJb52eMLNg&list=PLoTScYm9O0GFVfRk_MmZt0vQXNIi36LUz&index=97)
 * [x] separator
 * [x] nrows
 * [x] parse_dates
@@ -115,13 +115,13 @@
 ---
 ## week 3: 3-Feb-2021
 ### Announcement
-* [ ] Quiz 1 (35 points) on 24-Feb-2021
-* [ ] Internship
+* [x] Quiz 1 (35 points) on 24-Feb-2021
+* [x] Internship
 ### Filter
 * [ ] ==, !=, <, >, ~, &, |
-* [ ] [regular expression](https://www.youtube.com/watch?v=KTGvdg9c_qU&list=PLoTScYm9O0GHsd-2JwUcifFTO3EuqJB4F)
+* [x] [regular expression](https://www.youtube.com/watch?v=KTGvdg9c_qU&list=PLoTScYm9O0GHsd-2JwUcifFTO3EuqJB4F)
 ### Merge, Join, Pivot
-* [ ] combine DataFrames
+* [ ] [concat](https://www.youtube.com/watch?v=fNJb52eMLNg&list=PLoTScYm9O0GFVfRk_MmZt0vQXNIi36LUz&index=97) (combine) DataFrames
   * [ ] append rows
     * [ ] [michelin restaurants](https://github.com/prasertcbs/basic-dataset/tree/master/michelin%20restaurants)
 * [ ] merge DataFrames
@@ -133,7 +133,7 @@
   * [ ] [pixar quiz](https://github.com/prasertcbs/basic-dataset/raw/master/regexp_extract_split.csv)
 ### [matplotlib](https://www.youtube.com/watch?v=WOEOH8OV99k&list=PLoTScYm9O0GGRvUsTmO8MQUkIuM1thTCf)
 * [ ] subplots r x c 
-### Widget
+### [Widget](https://www.youtube.com/watch?v=_YrB8JblQz8&list=PLoTScYm9O0GEour5CiwfSnoutg3RyA76O&index=12)
 * [ ] [COVID-19](https://www.youtube.com/watch?v=sBWgTkQ9Ezw&list=PLoTScYm9O0GEZpIlV6-_ppgQmBO0luWG-)
 * [ ] [COVID-19 chart](https://www.youtube.com/watch?v=wqHYYzRTss8)
 ### Assignment
