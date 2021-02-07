@@ -14,9 +14,13 @@
     - [Announcement](#announcement)
     - [Filter](#filter)
     - [Merge, Join, Pivot](#merge-join-pivot)
-    - [matplotlib](#matplotlib)
+  - [week 4: 10-Feb-2021](#week-4-10-feb-2021)
+    - [mutable DataFrame](#mutable-dataframe)
+    - [regular expression](#regular-expression)
+    - [JSON](#json)
     - [Widget](#widget)
-    - [Assignment](#assignment)
+    - [matplotlib](#matplotlib)
+    - [Assignments](#assignments)
 
 ---
 # 2602454: Business Intelligence System
@@ -127,15 +131,33 @@
 * [ ] merge DataFrames
   * [ ] covid exam
 * [ ] crosstab, pivot
-* [ ] [regular expression](https://www.youtube.com/watch?v=KTGvdg9c_qU&list=PLoTScYm9O0GHsd-2JwUcifFTO3EuqJB4F&index=1)
+## week 4: 10-Feb-2021
+### mutable DataFrame
+* [ ] deep copy
+### [regular expression](https://www.youtube.com/watch?v=KTGvdg9c_qU&list=PLoTScYm9O0GHsd-2JwUcifFTO3EuqJB4F&index=1)
+* [ ] [import re](https://docs.python.org/3/library/re.html)
+  * [ ] re.sub
+    * [ ] remove non-digit
+    * [ ] re.sub(r'\D', '', '$1,234')
+    * [ ] re.sub(r'[^\d\.]', '', '$1,234')
+  * [ ] re.findall("\'(.+)\'", "hello 'thailand' 4.0")[0]
+* [ ] Series.str
+* [ ] examples
+  * [ ] [Chiang rai temperature](https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2)
   * [ ] [rai-ngan-wah](https://github.com/prasertcbs/basic-dataset/raw/master/area_conversion.xlsx)
   * [ ] [geo:lat,lon](https://github.com/prasertcbs/basic-dataset/raw/master/temple_geo.tsv)
   * [ ] [pixar quiz](https://github.com/prasertcbs/basic-dataset/raw/master/regexp_extract_split.csv)
-### [matplotlib](https://www.youtube.com/watch?v=WOEOH8OV99k&list=PLoTScYm9O0GGRvUsTmO8MQUkIuM1thTCf)
-* [ ] subplots r x c 
+  * [ ] [explode list](https://youtu.be/9OUwRrshD1s)
+  * [ ] [get_dummies](https://youtu.be/4d5XZAsV-sw)
+### JSON
+* [ ] pandas_read_json_itunes_rss.ipynb
 ### [Widget](https://www.youtube.com/watch?v=_YrB8JblQz8&list=PLoTScYm9O0GEour5CiwfSnoutg3RyA76O&index=12)
 * [ ] [COVID-19](https://www.youtube.com/watch?v=sBWgTkQ9Ezw&list=PLoTScYm9O0GEZpIlV6-_ppgQmBO0luWG-)
 * [ ] [COVID-19 chart](https://www.youtube.com/watch?v=wqHYYzRTss8)
-### Assignment
+### [matplotlib](https://www.youtube.com/watch?v=WOEOH8OV99k&list=PLoTScYm9O0GGRvUsTmO8MQUkIuM1thTCf)
+* [ ] subplots r x c 
+### Assignments
+* [ ] [data cleansing](regex_clean_data.ipynb)
 * [ ] [Web scraping](https://www.youtube.com/watch?v=Y-_t5Hll09I&list=PLoTScYm9O0GHM1yuswgoL6tUcMge7FwP7)
   * [ ] scrape an interesting website and save scraped data as CSV
+

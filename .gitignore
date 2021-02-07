@@ -127,4 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# etc
+.gitignore
 future.md
+pandas_read_json_itunes_rss.ipynb
+regex_clean_data.ipynb
