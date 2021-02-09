@@ -147,6 +147,8 @@
 * [ ] deep copy
   * [ ] [Chiang rai temperature](https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2)
 ### [regular expression](https://www.youtube.com/watch?v=KTGvdg9c_qU&list=PLoTScYm9O0GHsd-2JwUcifFTO3EuqJB4F&index=1)
+* [ ] [parse_reg_chula_roster.ipynb](parse_reg_chula_roster.ipynb)
+* [ ] [regex101.com](https://regex101.com/)
 * [ ] [import re](https://docs.python.org/3/library/re.html)
   * [ ] re.sub
     * [ ] remove non-digit
