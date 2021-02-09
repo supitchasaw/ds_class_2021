@@ -15,6 +15,7 @@
     - [Filter](#filter)
     - [Merge, Join, Pivot](#merge-join-pivot)
   - [week 4: 10-Feb-2021](#week-4-10-feb-2021)
+    - [EDA](#eda-1)
     - [mutable DataFrame](#mutable-dataframe)
     - [regular expression](#regular-expression)
     - [JSON](#json)
@@ -132,8 +133,19 @@
   * [ ] covid exam
 * [ ] crosstab, pivot
 ## week 4: 10-Feb-2021
+### [EDA](https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e)
+> source: https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e  
+
+> ‘Understanding the dataset’ can refer to a number of things including but not limited to…
+
+> * [ ] `Extracting` important variables and leaving behind useless variables
+> * [ ] `Identifying` outliers, missing values, or human error
+> * [ ] `Understanding` the relationship(s), or lack of, between variables
+> * [ ] `Maximizing` your insights of a dataset and minimizing potential error that may occur later in the process
+
 ### mutable DataFrame
 * [ ] deep copy
+  * [ ] [Chiang rai temperature](https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2)
 ### [regular expression](https://www.youtube.com/watch?v=KTGvdg9c_qU&list=PLoTScYm9O0GHsd-2JwUcifFTO3EuqJB4F&index=1)
 * [ ] [import re](https://docs.python.org/3/library/re.html)
   * [ ] re.sub
@@ -143,7 +155,6 @@
   * [ ] re.findall("\'(.+)\'", "hello 'thailand' 4.0")[0]
 * [ ] Series.str
 * [ ] examples
-  * [ ] [Chiang rai temperature](https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2)
   * [ ] [rai-ngan-wah](https://github.com/prasertcbs/basic-dataset/raw/master/area_conversion.xlsx)
   * [ ] [geo:lat,lon](https://github.com/prasertcbs/basic-dataset/raw/master/temple_geo.tsv)
   * [ ] [pixar quiz](https://github.com/prasertcbs/basic-dataset/raw/master/regexp_extract_split.csv)
@@ -157,7 +168,7 @@
 ### [matplotlib](https://www.youtube.com/watch?v=WOEOH8OV99k&list=PLoTScYm9O0GGRvUsTmO8MQUkIuM1thTCf)
 * [ ] subplots r x c 
 ### Assignments
-* [ ] [data cleansing](regex_clean_data.ipynb)
+* [ ] [data cleansing](regex_clean_data_chiangrai_temperature.ipynb)
 * [ ] [Web scraping](https://www.youtube.com/watch?v=Y-_t5Hll09I&list=PLoTScYm9O0GHM1yuswgoL6tUcMge7FwP7)
   * [ ] scrape an interesting website and save scraped data as CSV
 
