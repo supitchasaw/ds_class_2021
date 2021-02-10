@@ -15,11 +15,17 @@
     - [Filter](#filter)
     - [Merge, Join, Pivot](#merge-join-pivot)
   - [week 4: 10-Feb-2021](#week-4-10-feb-2021)
-    - [EDA](#eda-1)
     - [mutable DataFrame](#mutable-dataframe)
     - [regular expression](#regular-expression)
     - [Web scraping](#web-scraping)
     - [Assignments](#assignments)
+  - [week 5: 17-Feb-2021](#week-5-17-feb-2021)
+    - [Announcement](#announcement-1)
+    - [Web scraping](#web-scraping-1)
+    - [labmda](#labmda)
+    - [Widget](#widget)
+    - [EDA](#eda-1)
+    - [matplotlib](#matplotlib)
 
 ---
 # 2602454: Business Intelligence System
@@ -131,16 +137,6 @@
   * [ ] covid exam
 * [ ] crosstab, pivot
 ## week 4: 10-Feb-2021
-### [EDA](https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e)
-> source: https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e  
-
-> ‘Understanding the dataset’ can refer to a number of things including but not limited to…
-
-> * [ ] `Extracting` important variables and leaving behind useless variables
-> * [ ] `Identifying` outliers, missing values, or human error
-> * [ ] `Understanding` the relationship(s), or lack of, between variables
-> * [ ] `Maximizing` your insights of a dataset and minimizing potential error that may occur later in the process
-
 ### mutable DataFrame
 * [ ] deep copy
   * [x] [Chiang rai temperature](https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A2)
@@ -167,3 +163,25 @@
 * [ ] [Web scraping](https://www.youtube.com/watch?v=Y-_t5Hll09I&list=PLoTScYm9O0GHM1yuswgoL6tUcMge7FwP7)
   * [ ] scrape an interesting website and save scraped data as CSV
 
+## week 5: 17-Feb-2021
+### Announcement
+* [ ] Quiz 1: regex & web scraping (35 points, 2 hours)
+### [Web scraping](https://www.youtube.com/watch?v=Y-_t5Hll09I&list=PLoTScYm9O0GHM1yuswgoL6tUcMge7FwP7)
+* [ ] [Liverpool FC](https://www.liverpoolfc.com/team/first-team)
+### labmda
+* [ ] [python lambda](https://www.youtube.com/playlist?list=PLoTScYm9O0GHJQXNPKP34Cu7unIxa17B9)
+* [ ] [pandas lambda](https://www.youtube.com/watch?v=GRYfWdJ_46k&list=PLoTScYm9O0GHybs6sQKhFLhLUPDDHpBcQ)
+  * [ ] [map](https://youtu.be/RQYyPAJuoX8)
+  * [ ] [apply](https://youtu.be/3vZocRESZF4)
+  * [ ] [applymap](https://youtu.be/TCN5t-TIosM) 
+### [Widget](https://www.youtube.com/watch?v=_YrB8JblQz8&list=PLoTScYm9O0GEour5CiwfSnoutg3RyA76O&index=12)
+* [ ] [COVID-19 chart](https://www.youtube.com/watch?v=wqHYYzRTss8)
+### [EDA](https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e)
+> source: https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e  
+> ‘Understanding the dataset’ can refer to a number of things including but not limited to…  
+> * [ ] `Extracting` important variables and leaving behind useless variables
+> * [ ] `Identifying` outliers, missing values, or human error
+> * [ ] `Understanding` the relationship(s), or lack of, between variables
+> * [ ] `Maximizing` your insights of a dataset and minimizing potential error that may occur later in the process
+### [matplotlib](https://www.youtube.com/watch?v=WOEOH8OV99k&list=PLoTScYm9O0GGRvUsTmO8MQUkIuM1thTCf)
+* [ ] subplots r x c 
