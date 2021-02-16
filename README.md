@@ -176,6 +176,7 @@
 ### labmda
 * [ ] [python lambda](https://www.youtube.com/playlist?list=PLoTScYm9O0GHJQXNPKP34Cu7unIxa17B9)
 * [ ] [pandas lambda](https://www.youtube.com/watch?v=GRYfWdJ_46k&list=PLoTScYm9O0GHybs6sQKhFLhLUPDDHpBcQ)
+  * [ ] [example](example/why_lambda.ipynb)
   * [ ] [map](https://youtu.be/RQYyPAJuoX8)
   * [ ] [apply](https://youtu.be/3vZocRESZF4)
   * [ ] [applymap](https://youtu.be/TCN5t-TIosM) 
