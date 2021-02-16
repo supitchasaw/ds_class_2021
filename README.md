@@ -26,6 +26,7 @@
     - [Widget](#widget)
     - [EDA](#eda-1)
     - [matplotlib](#matplotlib)
+    - [[convert multilevel table]](#convert-multilevel-table)
 
 ---
 # 2602454: Business Intelligence System
@@ -168,6 +169,8 @@
 * [ ] Quiz 1: regex & web scraping (35 points, 2 hours)
 ### [Web scraping](https://www.youtube.com/watch?v=Y-_t5Hll09I&list=PLoTScYm9O0GHM1yuswgoL6tUcMge7FwP7)
 * [ ] [Liverpool FC](https://www.liverpoolfc.com/team/first-team)
+  * [ ] [notebook](example/webscraping_liverpool_fc.ipynb)
+  * [ ] [YouTube](https://www.youtube.com/watch?v=Y-_t5Hll09I&list=PLoTScYm9O0GHM1yuswgoL6tUcMge7FwP7&index=1)
 ### labmda
 * [ ] [python lambda](https://www.youtube.com/playlist?list=PLoTScYm9O0GHJQXNPKP34Cu7unIxa17B9)
 * [ ] [pandas lambda](https://www.youtube.com/watch?v=GRYfWdJ_46k&list=PLoTScYm9O0GHybs6sQKhFLhLUPDDHpBcQ)
@@ -175,6 +178,7 @@
   * [ ] [apply](https://youtu.be/3vZocRESZF4)
   * [ ] [applymap](https://youtu.be/TCN5t-TIosM) 
 ### [Widget](https://www.youtube.com/watch?v=_YrB8JblQz8&list=PLoTScYm9O0GEour5CiwfSnoutg3RyA76O&index=12)
+* [ ] [McDonald](example/interactive_ipywidgets.ipynb)
 * [ ] [COVID-19 chart](https://www.youtube.com/watch?v=wqHYYzRTss8)
 ### [EDA](https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e)
 > source: https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e  
@@ -184,4 +188,5 @@
 > * [ ] `Understanding` the relationship(s), or lack of, between variables
 > * [ ] `Maximizing` your insights of a dataset and minimizing potential error that may occur later in the process
 ### [matplotlib](https://www.youtube.com/watch?v=WOEOH8OV99k&list=PLoTScYm9O0GGRvUsTmO8MQUkIuM1thTCf)
-* [ ] subplots r x c 
+* [ ] subplots r x c
+### [convert multilevel table]
