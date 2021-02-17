@@ -166,8 +166,9 @@
 
 ## week 5: 17-Feb-2021
 ### Announcement
-* [ ] Quiz 1: regex & web scraping (35 points, 2 hours)
+* [ ] Quiz 1: regex & web scraping (35 points, 2 hours from 9:00-11:00)
   * [ ] zoom user: student_id first_name last_name
+  * [ ] video without virtual background
 ### [Web scraping](https://www.youtube.com/watch?v=Y-_t5Hll09I&list=PLoTScYm9O0GHM1yuswgoL6tUcMge7FwP7)
 * [ ] [Liverpool FC](https://www.liverpoolfc.com/team/first-team)
   * [ ] [notebook](example/webscraping_liverpool_fc.ipynb)
@@ -187,7 +188,7 @@
 * [ ] [McDonald](example/interactive_ipywidgets.ipynb)
 ### [EDA](https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e)
 > source: https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e  
-> ‘Understanding the dataset’ can refer to a number of things including but not limited to…  
+> `Understanding the dataset` can refer to a number of things including but not limited to…  
 > * [ ] `Extracting` important variables and leaving behind useless variables
 > * [ ] `Identifying` outliers, missing values, or human error
 > * [ ] `Understanding` the relationship(s), or lack of, between variables
