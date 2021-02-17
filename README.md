@@ -167,6 +167,7 @@
 ## week 5: 17-Feb-2021
 ### Announcement
 * [ ] Quiz 1: regex & web scraping (35 points, 2 hours)
+  * [ ] zoom user: student_id first_name last_name
 ### [Web scraping](https://www.youtube.com/watch?v=Y-_t5Hll09I&list=PLoTScYm9O0GHM1yuswgoL6tUcMge7FwP7)
 * [ ] [Liverpool FC](https://www.liverpoolfc.com/team/first-team)
   * [ ] [notebook](example/webscraping_liverpool_fc.ipynb)
